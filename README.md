@@ -30,3 +30,6 @@ Bu projede Arçelik firmasına ait yıllık finansal veriler kullanılarak çeş
 ## ✍️ Katkı ve Lisans
 
 Bu proje eğitim amaçlıdır. Katkı sağlamak istersen pull request gönderebilirsin.
+
+Bu kodlar yalnızca öğrenme ve gösterim amaçlı paylaşılmıştır. Kaynak belirtmeden veya ticari amaçla kullanılamaz.
+
