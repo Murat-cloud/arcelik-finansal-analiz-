@@ -27,14 +27,5 @@ Bu projede Arçelik firmasına ait yıllık finansal veriler kullanılarak çeş
 
 ![Tahmin Grafiği](grafikler/tahmin_vs_gercek.png)
 
-## 🤝 Katkı
-
-Bu proje bireysel öğrenme amacıyla geliştirilmiştir. Pull request'lerle katkı sağlamak isteyenlere açıktır.
-
-## ⚠️ Lisans ve Kullanım
-
-Bu proje **eğitim ve portföy amacıyla** paylaşılmıştır.  
-
-Kodların ya da verilerin ticari amaçlarla veya kaynak göstermeden kullanılması **yasaktır**.  
-
-Daha fazla bilgi için `LICENSE` dosyasını inceleyiniz.
+✍️ Katkı ve Lisans
+Bu proje eğitim ve geliştirme amaçlıdır. Kodlar MIT Lisansı altında paylaşılmaktadır; yani kaynak belirtilerek her türlü kullanım (ticari veya kişisel) serbesttir. Katkı sağlamak istersen pull request gönderebilirsin.
