@@ -1,0 +1,25 @@
+🧠 1. Çıktıların Yorumu
+✅ Regresyon Sonuçları:
+R-kare: 0.56
+Net Kâr'ı tahmin eden modelde açıklanan varyans oranı %56. Bu fena değil ama model daha geliştirilebilir.
+
+Katsayılar Yorumu:
+
+Brüt Kâr (+0.20) ve Toplam Varlık (+0.18) Net Kâr üzerinde pozitif etkili.
+
+Faaliyet Kârı (-0.62) ve Net Satışlar (-0.35) negatif katsayıya sahip. Bu, multikolinearite olabileceğini gösteriyor (bazı değişkenler birbirini etkiliyor olabilir).
+
+Kısa Vadeli Borçlar (+0.35): İlginç şekilde pozitif, ancak bu finansal yapıya özel olabilir.
+
+📊 Oran Analizi Yorumu:
+Brüt Kâr Marjı (%30-34 arası): İstikrarlı. Satışlardan elde edilen brüt kâr yüksek.
+
+Net Kâr Marjı (%1-8): Çok düşük. Giderlerin ya da finansal yüklerin net kârı düşürdüğünü gösterir.
+
+Aktif Devir Hızı (≈1): Aktifler yılda bir kez satışa dönüşüyor, fena değil.
+
+Özsermaye Karlılığı (%3-22): Dalgalı. 2020'de yüksek, 2024’te ciddi düşüş var.
+
+Cari Oran (1.67 - 2.62): Kısa vadeli borçları ödeyebilecek güçte.
+
+Borç / Özsermaye Oranı (1.82 - 4.30): Yüksek ve artıyor. Finansman yapısında dış borç ağırlıklı hale gelmiş.
