@@ -19,17 +19,22 @@ Bu projede Arçelik firmasına ait yıllık finansal veriler kullanılarak çeş
 ## 📁 Dosya İçeriği
 
 - `arcelik_analiz.py` → Python kod dosyası
-- `Arçelik.xlsx` → Finansal verilerin bulunduğu dosya
-- `grafikler/` → Oluşan grafik dosyaları (korelasyon, tahmin grafiği)
+- `Arçelik.xlsx` → Finansal verilerin bulunduğu Excel dosyası
+- `grafikler/` → Oluşturulan grafik dosyaları (korelasyon, tahmin grafiği)
 - `README.md` → Bu açıklamaları içeren dosya
 
 ## 🖼️ Örnek Grafikler
 
 ![Tahmin Grafiği](grafikler/tahmin_vs_gercek.png)
 
-## ✍️ Katkı ve Lisans
+## 🤝 Katkı
 
-Bu proje eğitim amaçlıdır. Katkı sağlamak istersen pull request gönderebilirsin.
+Bu proje bireysel öğrenme amacıyla geliştirilmiştir. Pull request'lerle katkı sağlamak isteyenlere açıktır.
 
-Bu kodlar yalnızca öğrenme ve gösterim amaçlı paylaşılmıştır. Kaynak belirtmeden veya ticari amaçla kullanılamaz.
+## ⚠️ Lisans ve Kullanım
 
+Bu proje **eğitim ve portföy amacıyla** paylaşılmıştır.  
+
+Kodların ya da verilerin ticari amaçlarla veya kaynak göstermeden kullanılması **yasaktır**.  
+
+Daha fazla bilgi için `LICENSE` dosyasını inceleyiniz.
